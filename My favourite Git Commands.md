@@ -129,8 +129,7 @@ Git remote command acts like a border, and If you need to connect with the outsi
 
 $ git remote add <shortname> <url>
 
-$ git remote add origin https://dev.azure.com/aCompiler/_git/DemoProject
-
+$ git remote add origin https://github.com/Skills-Hub/Git-Hacks
 
 
 ## git push
@@ -234,12 +233,6 @@ $ git merge <branch_name>
 
 This command will merge the <branch_name> into your current selected branch.
 
-
-
-## Advanced Level Git Commands
-And now the time to up one more level. In this section, you will learn the advanced Git commands. These commands will take time and practice.
-
-Once you know the basics of these commands, it will be easy to use them every day.
 
 ## git rebase 
 Git rebase similar to the git merge command. It integrates two branches into a single branch with one exception. A git rebase command rewrites the commit history.
@@ -366,8 +359,6 @@ Git citool is a graphics alternative of the Git commit.
 $ git citool
 
 
-
-Use image from https://acompiler.com/wp-content/uploads/2020/06/git-citool-productivity-tool-768x431.png.
 
 ##  git mv
 To rename a git file. It will accept two arguments, source and target file name.
