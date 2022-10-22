@@ -1,5 +1,5 @@
 # Git 
-We all use git everyday, Git is an amazing tools that helps developers to colaborate to each other, I have been using git for very long time and here are some of the commands I use most of the days. 
+We all use GIT every day. Git is an excellent tool that helps developers to collaborate. I have been using GIT for a long time, and here are some of the commands I use most days.
 
 
 ## git config
