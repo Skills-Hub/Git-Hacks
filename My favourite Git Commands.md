@@ -14,7 +14,7 @@ $ git config --global user.email "Your email"
 
 
 ## git version
-As its name implies, it's just to check which version of Git you are using. At the moment, writing this guide, the latest version of Git for Windows is 2.31.1. It was released on 27th March 2021.
+As its name implies, it's just to check which version of Git you are using.
 
 ### Usage  
 
