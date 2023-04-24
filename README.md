@@ -8,22 +8,22 @@ In this repository, you'll find tutorials, exercises, and examples that cover ev
 We hope that by the end of this repository, you'll have a solid understanding of Git and its features, and be confident using it in your projects. So, let's get started on this exciting journey of learning Git!
 
 ### Setup and Config
-Git git
-Git config
-Git help
+Git git \
+Git config \
+Git help \
 Git bugreport
 ### Getting and Creating Projects
-Git init
+Git init \
 Git clone
 ### Basic Snapshotting
-Git add
-Git status
-Git diff
-Git commit
-Git notes
-Git restore
-Git reset
-Git rm
+Git add \
+Git status \
+Git diff \
+Git commit \
+Git notes \
+Git restore \
+Git reset \
+Git rm \
 Git mv
 ### Branching and Merging
 Git branch
