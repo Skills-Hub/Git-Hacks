@@ -26,89 +26,89 @@ Git reset \
 Git rm \
 Git mv
 ### Branching and Merging
-Git branch
-Git checkout
-Git switch
-Git merge
-Git mergetool
-Git log
-Git stash
-Git tag
+Git branch \
+Git checkout \
+Git switch \
+Git merge \
+Git mergetool \
+Git log \
+Git stash \
+Git tag \
 Git worktree
 ### Sharing and Updating Projects
-Git fetch
-Git pull
-Git push
-Git remote
+Git fetch \
+Git pull \
+Git push \
+Git remote \
 Git submodule
 ### Inspection and Comparison
-Git show
-Git log
-Git diff
-Git difftool
-Git range-diff
-Git shortlog
-Git describe
-Git Patching
-Git apply
-Git cherry-pick
-Git diff
-Git rebase
-Git revert
-Git Debugging
-Git bisect
-Git blame
+Git show \
+Git log \
+Git diff \
+Git difftool \
+Git range-diff \
+Git shortlog \
+Git describe \
+Git Patching \
+Git apply \
+Git cherry-pick \
+Git diff \
+Git rebase \
+Git revert \
+Git Debugging \
+Git bisect \
+Git blame \
 Git grep
 ### Guides
-Git gitattributes
-Git Command-line interface conventions
-Git Everyday Git
-Git Frequently Asked Questions (FAQ)
-Git Hooks
-Git gitignore
-Git gitmodules
-Git Revisions
+Git gitattributes \
+Git Command-line interface conventions \
+Git Everyday Git \
+Git Frequently Asked Questions (FAQ) \
+Git Hooks \
+Git gitignore \
+Git gitmodules \
+Git Revisions \
 Git Submodules
 
 ### Email
-Git am
-Git apply
-Git format-patch
-Git send-email
+Git am \
+Git apply \
+Git format-patch \
+Git send-email \
 Git request-pull
 ### External Systems
-Git svn
+Git svn \
 Git fast-import
 ### Administration
-Git clean
-Git gc
-Git fsck
-Git reflog
-Git filter-branch
-Git instaweb
-Git archive
+Git clean \
+Git gc \
+Git fsck \
+Git reflog \
+Git filter-branch \
+Git instaweb \
+Git archive \
 Git bundle
 ### Server Admin
-Git daemon
+Git daemon \
 Git update-server-info
 ### Plumbing Commands
-Git cat-file
-Git check-ignore
-Git checkout-index
-Git commit-tree
-Git count-objects
-Git diff-index
-Git for-each-ref
-Git hash-object
-Git ls-files
-Git ls-tree
-Git merge-base
-rGit ead-tree
-Git rev-list
-Git rev-parse
-Git show-ref
-Git symbolic-ref
-Git update-index
-Git update-ref
-Git verify-pack
+Git cat-file \
+Git check-ignore \
+Git checkout-index \
+Git commit-tree \
+Git count-objects \
+Git diff-index \
+Git for-each-ref \
+Git hash-object \
+Git ls-files \
+Git ls-tree \
+Git merge-base \
+rGit ead-tree \
+Git rev-list \
+Git rev-parse \
+Git show-ref \
+Git symbolic-ref \
+Git update-index \
+Git update-ref \
+Git verify-pack \
 Git write-tree
